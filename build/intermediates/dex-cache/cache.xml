@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_307e28058eaf0b1706e0ce6769e40e5b4011ae9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_347b568fddced2c95905caeb60a1982f2fceafed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_45483dfdae2cd9c25d8da3df3b03ecceb539237e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_4e48c791cfc40267fde6150c427f11c1ad593270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_20ea05dbf883f796b8a3c63c531d1dbe1a06b04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_54a34e8c63377dbbd11a6e42a3b01a5e78d03d66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_606bad4c3821bb03d0b94e155c442120fd2ac568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_5c673e5d549c5eea219f364023bce1983586998a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_5835d6ae971fc52ce52ef71707882a787731f51f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_7189417a5ee578036ba51c128172450de6c3952d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_2ec9053d288ba325abdf17c240fd8fcb24dbac06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_3238ef8f9e6fb545a3dfc92dc233b553305fc7cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.8.1/c84b11d25ae405edc4260d2dcf430fdd21c2c8d9/engine.io-client-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84b11d25ae405edc4260d2dcf430fdd21c2c8d9">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.8.1_ef69f5be5a192fa0fe2ba4dfe400908b6fc53cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.8.1/b6c4a3afc589a8c6fa10ecc38eb1beede8006838/socket.io-client-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6c4a3afc589a8c6fa10ecc38eb1beede8006838">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.8.1_30df182ac0f13c4a8e31f834cf12ec843e6347eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_4dba22fa52b1f0f51d33919e7040a2e4cae1b04b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_9f38975d2b71c428e91abd336a06e839a0e5acc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_69e9beca5c063cef6e09168d5414009e669f36e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_fd1a57381a5719d76660a4aa895ba3a4c551577a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_ed9783f14013b7d6196ab9972387f8fb53d051fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_7876cc48deb799f5f15b80d14c732c7a729697e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_1822bf7112f1fc49c4983d35108740e2d165cc44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_042d4a3a9822c54c39bfc8e29af1fb7d8625aeb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_a9a22fca0c38f8c10ce83b16c8bb8e0e177e29a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed3c1f026c6a055821bb37af26eca8191deb7b5f">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_117e6b81d946ed57f78e9bf9b22e373e9447b6cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_8ca992a19b46d7793d858c3d07d536b3fe199675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6a6f3838546baffd270abd737af99fe4da602fd">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa409b275c28fb3021b61db2ed92dfc8c4c9a435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="697961e5b000434511cd2279c91c226f73bb18b8">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6384460b5b4aeefd51e1c888646f5eb45902d69a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_ad9ebbc3d8c3423a7f800ee1a42c95d2db0b88d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb5a4fcb8dd3ce8889483fdc8e6d30e666a81d90">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9b201a5b94d7422c453826246db84ebccc031f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_70eacd1dec536e149a926a81909abe5f7974d813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/sarsi/Desktop/CoinDispenser (copy)/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_5803a21a9f15ab6373aeef13d3ec3b35e3382084/classes.dex" />
+    </item>
+
+</items>
