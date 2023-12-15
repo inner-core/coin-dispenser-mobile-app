@@ -1,2 +1,2 @@
 # coin-dispenser-mobile-app
-Team Adaptdev coin dispenser mobile app proof of concept
+Inner Core coin dispenser mobile app proof of concept
